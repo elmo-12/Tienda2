@@ -1,0 +1,69 @@
+{
+    "menu": {
+        "op1": "Home",
+        "op2": "Categories",
+        "op3": "Collection",
+        "op4": "Reviews"
+    },
+    "principal": {
+        "titulo": "The newcomers are here.",
+        "contenido": "The newcomers have just arrived. Check out the latest options from our summer small-batch release while they're still in stock.",
+        "boton": "Shop New Arrivals"
+    },
+    "productos": {
+        "titulo": "Shop by Category",
+        "agregado": "Explore all categories →",
+        "p1": "New Arrivals",
+        "p2": "Productivity",
+        "p3": "Workspace",
+        "p4": "Accessories",
+        "p5": "Sale",
+        "p6": "Notes"
+    },
+    "frase1": {
+        "titulo": "Elevate Your Desk Game. The Copa America is the oldest football tournament in the world.",
+        "contenido": "Make your desk beautiful and organized. Post a picture on social media and watch it get more likes than life-changing ads. Reflect on the superficial nature of existence. At least you have a really nice desk setup.",
+        "boton": "Shop Workspace"
+    },
+    "colecciones": {
+        "titulo": "Shop by Collection",
+        "contenido": "Every season, we collaborate with world-class designers to create a collection inspired by the natural world.",
+        "a1": "Handcrafted Collection",
+        "a2": "Keep your phone, keys, and wallet together so you can lose them all at once.",
+        "a3": "Organized Desk Collection",
+        "a4": "The rest of the house may remain a mess, but your desk will look great.",
+        "a5": "Focus Collection",
+        "a6": "Be more productive than corporate project managers with just a single sheet of paper."
+    },
+    "frase2": {
+        "titulo": "Simple Productivity",
+        "contenido": "Endless tasks, limited time, just one paper. It's not really a haiku, but here we are doing the best we can. No kanban boards, evolution charts, or flow diagrams tangled with our Focus system. Just the undeniable need to fill empty circles.",
+        "boton": "Shop Focus"
+    },
+    "forms": {
+        "r1": "Feedback",
+        "r2": "Please share your thoughts in the Comment field.",
+        "r3": "First Name",
+        "r4": "Last Name",
+        "r5": "Phone",
+        "r6": "Email",
+        "r7": "Comment",
+        "r8": "Submit"
+    },
+    "comentarios": {
+        "subtitulo": "REVIEWS",
+        "titulo": "DISCOVER CUSTOMER SATISFACTION",
+        "c1": "Incredible variety of desk products! I found everything I needed to organize my workspace. The quality is exceptional!",
+        "c2": "The shopping experience on this website was impeccable. Easy navigation, detailed descriptions, and fast delivery. Highly recommended!",
+        "c3": "Customer service is exceptional. I had some questions about a product, and I received quick and helpful responses. I will definitely shop here again!"
+    },
+    "footer": {
+        "r1": "Resources",
+        "r2": "Products",
+        "r3": "Categories",
+        "r4": "Follow Us On",
+        "r5": "LEGAL",
+        "r6": "Privacy Policy",
+        "r7": "Terms &amp; Conditions"
+    }
+}

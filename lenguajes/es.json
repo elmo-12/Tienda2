@@ -1,0 +1,69 @@
+{
+    "menu": {
+        "op1": "Inicio",
+        "op2": "Categorias",
+        "op3": "Colección",
+        "op4": "Opiniones"
+    },
+    "principal": {
+        "titulo": "Los recién llegados están aquí.",
+        "contenido": "Los recién llegados tienen, bueno, reciénllegó. Vea las últimas opciones de nuestro lanzamiento de lotes pequeños de verano mientras están todavía en stock.",
+        "boton": "Comercio Los recién llegados"
+    },
+    "productos": {
+        "titulo": "Compra por Categoría",
+        "agregado": "Explora todas las categorías →",
+        "p1": "Los recién llegados",
+        "p2": "Productividad",
+        "p3": "Espacio de trabajo",
+        "p4": "Accesorios",
+        "p5": "Venta",
+        "p6": "Apuntes"
+    },
+    "frase1": {
+        "titulo": "Sube de nivel tu escritorioLa Copa América es el torneo de fútbol más antiguo del mundo.",
+        "contenido": "Haz que tu escritorio sea hermoso y organizado. Publique una imagen en las redes sociales y observe cómo obtiene más Me gusta que anuncios que cambian la vida. Reflexiona sobre la naturaleza superficial de la existencia. Al menos tienes una configuración de escritorio realmente agradable.",
+        "boton": "Espacio de trabajo de la tienda"
+    },
+    "colecciones": {
+        "titulo": "Comprar por colección",
+        "contenido": "Cada temporada, colaboramos con diseñadores de talla mundial para crear una colección inspirada en el mundo natural.",
+        "a1": "Colección artesanal",
+        "a2": "Mantén tu teléfono, llaves y billetera juntos para que puedas perderlo todo a la vez.",
+        "a3": "Colección de escritorio organizada",
+        "a4": "El resto de la casa seguirá siendo un desastre, pero tu escritorio lucirá genial.",
+        "a5": "Colección de enfoque",
+        "a6": "Sea más productivo que los gerentes de proyectos empresariales con una sola hoja de papel."
+    },
+    "frase2": {
+        "titulo": "Productividad sencilla",
+        "contenido": "Tareas interminables, horarios limitados, un solo papel. Realmente no es un haiku, pero aquí estamos haciendo lo mejor que podemos. Sin tableros kanban, gráficos de evolución ni diagramas de flujo enredados con nuestro sistema Focus. Sólo la innegable necesidad de llenar círculos vacíos.",
+        "boton": "Enfoque de la tienda"
+    },
+    "forms": {
+        "r1": "Comentarios",
+        "r2": "Por favor, comparta sus opiniones en el campo de Comentario",
+        "r3": "Nombre",
+        "r4": "Apellido",
+        "r5": "Teléfono",
+        "r6": "E-mail",
+        "r7": "Comentario",
+        "r8": "Enviar"
+    },
+    "comentarios":{
+        "subtitulo": "OPINIPONES",
+        "titulo": "CONOZCA LA SATISFACCION DE NUESTROS CLIENTES",
+        "c1": "¡Increíble variedad de productos de escritorio! Encontré todo lo que necesitaba para organizar mi espacio de trabajo. ¡La calidad es excepcional!",
+        "c2": "La experiencia de compra en esta página web fue impecable. Navegación fácil, descripciones detalladas y entrega rápida. ¡Altamente recomendado!",
+        "c3": "La atención al cliente es excepcional. Tuve algunas preguntas sobre un producto y recibí respuestas rápidas y útiles. ¡Definitivamente volveré a comprar aquí!"
+    },
+    "footer": {
+        "r1": "Recursos",
+        "r2": "Productos",
+        "r3": "Categorías",
+        "r4": "Siguenos en",
+        "r5": "LEGAL",
+        "r6": "Política de Privacidad",
+        "r7": "Términos &amp; Condiciones"
+    }
+}

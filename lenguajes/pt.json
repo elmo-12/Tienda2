@@ -1,0 +1,69 @@
+{
+    "menu": {
+        "op1": "Início",
+        "op2": "Categorias",
+        "op3": "Coleção",
+        "op4": "Opiniões"
+    },
+    "principal": {
+        "titulo": "Os recém-chegados estão aqui.",
+        "contenido": "Os recém-chegados acabaram de chegar. Confira as últimas opções do nosso lançamento de lotes pequenos de verão enquanto ainda estão em estoque.",
+        "boton": "Compre os Recém-chegados"
+    },
+    "productos": {
+        "titulo": "Compre por Categoria",
+        "agregado": "Explore todas as categorias →",
+        "p1": "Os Recém-chegados",
+        "p2": "Produtividade",
+        "p3": "Espaço de Trabalho",
+        "p4": "Acessórios",
+        "p5": "Venda",
+        "p6": "Notas"
+    },
+    "frase1": {
+        "titulo": "Eleve o nível do seu escritório. A Copa América é o torneio de futebol mais antigo do mundo.",
+        "contenido": "Deixe seu escritório bonito e organizado. Publique uma foto nas redes sociais e veja como ela recebe mais curtidas do que anúncios que mudam a vida. Reflita sobre a natureza superficial da existência. Pelo menos você tem uma configuração de escritório realmente agradável.",
+        "boton": "Loja de Espaço de Trabalho"
+    },
+    "colecciones": {
+        "titulo": "Compre por Coleção",
+        "contenido": "A cada temporada, colaboramos com designers de classe mundial para criar uma coleção inspirada no mundo natural.",
+        "a1": "Coleção Artesanal",
+        "a2": "Mantenha seu telefone, chaves e carteira juntos para que você possa perdê-los de uma vez.",
+        "a3": "Coleção de Escritório Organizado",
+        "a4": "O resto da casa pode continuar bagunçado, mas seu escritório vai ficar ótimo.",
+        "a5": "Coleção de Foco",
+        "a6": "Seja mais produtivo do que gerentes de projetos empresariais com apenas uma folha de papel."
+    },
+    "frase2": {
+        "titulo": "Produtividade Simples",
+        "contenido": "Tarefas intermináveis, horários limitados, apenas uma folha. Não é realmente um haiku, mas aqui estamos fazendo o melhor que podemos. Sem quadros kanban, gráficos de evolução ou diagramas de fluxo complicando nosso sistema Focus. Apenas a necessidade inegável de preencher círculos vazios.",
+        "boton": "Loja de Foco"
+    },
+    "forms": {
+        "r1": "Comentários",
+        "r2": "Por favor, compartilhe suas opiniões no campo de Comentário",
+        "r3": "Nome",
+        "r4": "Sobrenome",
+        "r5": "Telefone",
+        "r6": "E-mail",
+        "r7": "Comentário",
+        "r8": "Enviar"
+    },
+    "comentarios": {
+        "subtitulo": "OPINIÕES",
+        "titulo": "CONHEÇA A SATISFAÇÃO DOS NOSSOS CLIENTES",
+        "c1": "Variedade incrível de produtos de escritório! Encontrei tudo o que precisava para organizar meu espaço de trabalho. A qualidade é excepcional!",
+        "c2": "A experiência de compra neste site foi impecável. Navegação fácil, descrições detalhadas e entrega rápida. Altamente recomendado!",
+        "c3": "O atendimento ao cliente é excepcional. Tive algumas perguntas sobre um produto e recebi respostas rápidas e úteis. Com certeza vou comprar aqui novamente!"
+    },
+    "footer": {
+        "r1": "Recursos",
+        "r2": "Produtos",
+        "r3": "Categorias",
+        "r4": "Siga-nos em",
+        "r5": "LEGAL",
+        "r6": "Política de Privacidade",
+        "r7": "Termos &amp; Condições"
+    }
+}
